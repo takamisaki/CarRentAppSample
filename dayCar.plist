@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>劳斯莱斯 幻影</string>
+		<key>price</key>
+		<string>5000/天</string>
+		<key>latitude</key>
+		<string>31.269459</string>
+		<key>longitude</key>
+		<string>121.480229</string>
+		<key>photo</key>
+		<string>rr_huanying.jpg</string>
+		<key>requirement</key>
+		<string>周一限行</string>
+		<key>rate</key>
+		<real>0.98</real>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>阿斯顿马丁 V8</string>
+		<key>price</key>
+		<string>2000/天</string>
+		<key>latitude</key>
+		<string>31.271430</string>
+		<key>longitude</key>
+		<string>121.479017</string>
+		<key>photo</key>
+		<string>vantage_v8.jpg</string>
+		<key>requirement</key>
+		<string>周三限行</string>
+		<key>rate</key>
+		<real>0.79</real>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>五菱 宏光</string>
+		<key>price</key>
+		<string>9000/天</string>
+		<key>latitude</key>
+		<string>31.270027</string>
+		<key>longitude</key>
+		<string>121.479628</string>
+		<key>photo</key>
+		<string>wuling_Hongguang.jpg</string>
+		<key>requirement</key>
+		<string>周二限行</string>
+		<key>rate</key>
+		<real>0.99</real>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>BMW i8</string>
+		<key>price</key>
+		<string>1000/小时</string>
+		<key>latitude</key>
+		<string>31.270027</string>
+		<key>longitude</key>
+		<string>121.478234</string>
+		<key>photo</key>
+		<string>bmw_i8.jpg</string>
+		<key>requirement</key>
+		<string>周一限行</string>
+		<key>rate</key>
+		<real>0.98</real>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>BMW M6</string>
+		<key>price</key>
+		<string>1200/小时</string>
+		<key>latitude</key>
+		<string>31.269477</string>
+		<key>longitude</key>
+		<string>121.479628</string>
+		<key>photo</key>
+		<string>bmw_m6.jpg</string>
+		<key>requirement</key>
+		<string>周二限行</string>
+		<key>rate</key>
+		<real>0.78</real>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>BMW X6</string>
+		<key>price</key>
+		<string>1500/小时</string>
+		<key>latitude</key>
+		<string>31.270678</string>
+		<key>longitude</key>
+		<string>121.479553</string>
+		<key>photo</key>
+		<string>bmw_x6.jpg</string>
+		<key>requirement</key>
+		<string>周三限行</string>
+		<key>rate</key>
+		<real>0.89</real>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>BMW Z4</string>
+		<key>price</key>
+		<string>1200/小时</string>
+		<key>latitude</key>
+		<string>31.270573</string>
+		<key>longitude</key>
+		<string>121.480106</string>
+		<key>photo</key>
+		<string>bmw_z4.jpg</string>
+		<key>requirement</key>
+		<string>周四限行</string>
+		<key>rate</key>
+		<real>0.88</real>
+	</dict>
+</array>
+</plist>
